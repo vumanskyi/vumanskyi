@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">
+  <code>Hi there 👋 I'm Vlad 👨‍💻</code>
+</h1>
+
+<p align="center">A fullstack developer focused around PHP, JS, & Golang</p>
 
 <!--
 **vumanskyi/vumanskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
