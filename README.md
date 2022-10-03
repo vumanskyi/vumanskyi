@@ -3,7 +3,7 @@
 ### About me
 
 - Hobby Frontend/Backend developer
-- Interested in Node.js, Go, PHP also 
+- Interested in Node.js, Go, PHP 
 
 ## Free time
 
