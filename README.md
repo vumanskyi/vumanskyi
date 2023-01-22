@@ -7,7 +7,7 @@
 ## Free time
 
  - 🎲 Board games,
- - 💻 Coding (fixing bugs),
+ - 💻 Coding,
  - 📚 Reading books,
  - 👟 Training
 
